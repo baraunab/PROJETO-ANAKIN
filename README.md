@@ -4,6 +4,10 @@
 </p>
 
 **ANAKIN** é um administrador de sessões de RPG, com funcionalidades voltadas para organização do Mestre.
+
+>[!WARNING]
+>  Projeto sendo refeito nessa branch !!
+
 <hr>
 
 >[!IMPORTANT]
@@ -57,5 +61,3 @@ No Eclipse IDE, adicione o arquivo **jar** nas Propriedades do projeto:
 ```
 Properties > Java Build Path > Libraries > Add External JARs
 ```
-
-###### Projeto sendo refeito por baraunab !! :D
