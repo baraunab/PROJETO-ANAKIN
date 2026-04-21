@@ -4,6 +4,10 @@
 </p>
 
 **ANAKIN** é um administrador de sessões de RPG, com funcionalidades voltadas para organização do Mestre.
+
+>[!WARNING]
+>[Projeto em manuntencao!!](https://github.com/baraunab/PROJETO-ANAKIN/tree/anakin-rnw)
+
 <hr>
 
 >[!IMPORTANT]
